@@ -5,7 +5,6 @@
     'version': '1.10',
     'category': 'Hidden',
     'sequence': 145,
-    'summary': 'Chat, mail gateway and private channels',
     'description': """
 Properties definition for Odoo field.
 =====================================
